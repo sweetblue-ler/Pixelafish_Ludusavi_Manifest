@@ -1,1 +1,7 @@
-
+"Freddi Fish and The Case of the Missing Kelp Seeds":
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/freddi-freddy.*":
+      tags:
+        - save
+      when:
+        - os: windows
