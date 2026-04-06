@@ -1,7 +1,7 @@
 ---
 "Freddi Fish and The Case of the Missing Kelp Seeds":
   files:
-    "<home>/AppData/Roaming/ScummVM/Saved Games/freddi-freddy.*":
+    "<home>/AppData/Roaming/ScummVM/Saved Games/freddi-freddi.*":
       tags:
         - save
       when:
