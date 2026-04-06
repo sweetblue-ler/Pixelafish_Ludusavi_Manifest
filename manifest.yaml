@@ -1,7 +1,119 @@
 ---
 "Freddi Fish and The Case of the Missing Kelp Seeds":
   files:
-    "<home>/AppData/Roaming/ScummVM/Saved Games/freddi-freddi.*":
+    "<home>/AppData/Roaming/ScummVM/Saved Games/freddi-*":
+      tags:
+        - save
+      when:
+        - os: windows
+"Freddi Fish 2: The Case of the Haunted Schoolhouse":
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/freddi2-*":
+      tags:
+        - save
+      when:
+        - os: windows
+"Freddi Fish 3: The Case of the Stolen Conch Shell":
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/freddi3-*":
+      tags:
+        - save
+      when:
+        - os: windows
+"Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch":
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/freddi4-*":
+      tags:
+        - save
+      when:
+        - os: windows
+"Freddi Fish 5: The Case of the Creature of Coral Cove":
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/freddicove-*":
+      tags:
+        - save
+      when:
+        - os: windows
+"Pajama Sam In: No Need to Hide When It's Dark Outside":
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/pajama-*":
+      tags:
+        - save
+      when:
+        - os: windows
+"Pajama Sam 2: Thunder and Lightning Aren't so Frightening":
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/pajama2-*":
+      tags:
+        - save
+      when:
+        - os: windows
+"Pajama Sam 3: You Are What You Eat From Your Head to Your Feet":
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/pajama3-*":
+      tags:
+        - save
+      when:
+        - os: windows
+"The Pink Panther: Hokus Pokus Pink":
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/pokus.*":
+      tags:
+        - save
+      when:
+        - os: windows
+"Perfect Dark PC Port":
+  files:
+    "<home>/AppData/Roaming/perfectdark/eeprom.bin":
+      tags:
+        - save
+      when:
+        - os: windows
+"Putt-Putt Saves the Zoo":
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/puttzoo-*":
+      tags:
+        - save
+      when:
+        - os: windows
+"Putt-Putt Travels Through Time":
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/putttime-*":
+      tags:
+        - save
+      when:
+        - os: windows
+"Putt-Putt Enters the Race":
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/puttrace-*":
+      tags:
+        - save
+      when:
+        - os: windows
+"Putt-Putt Joins the Circus":
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/puttcircus-*":
+      tags:
+        - save
+      when:
+        - os: windows
+'Spy Fox in "Dry Cereal"':
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/spyfox-*":
+      tags:
+        - save
+      when:
+        - os: windows
+'Spy Fox 2: "Some Assembly Required"':
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/spyfox2-*":
+      tags:
+        - save
+      when:
+        - os: windows
+"Spy Fox 3: Operation Ozone":
+  files:
+    "<home>/AppData/Roaming/ScummVM/Saved Games/spyozon-*":
       tags:
         - save
       when:
